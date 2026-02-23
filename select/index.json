@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ろんりねす",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-23T23:08:45.868610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ろんりねす",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_ろんりねす_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ろんりねす",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/02_ろんりねす_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ろんりねす",
+      "artist": "Zutto Mayonaka De Iinoni.",
+      "has_synced": true,
+      "path": "select/03_ろんりねす_Zutto_Mayonaka_De_Iinoni..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ろんりねす - Loneliness",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_ろんりねす_-_Loneliness_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ろんりねす = Loneliness",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_ろんりねす_=_Loneliness_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ろんりねす - Loneliness",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_ろんりねす_-_Loneliness_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ろんりねす (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_ろんりねす_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ろんりねす",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ろんりねす_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
